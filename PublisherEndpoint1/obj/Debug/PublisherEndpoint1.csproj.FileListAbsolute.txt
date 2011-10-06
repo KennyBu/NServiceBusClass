@@ -1,0 +1,1 @@
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\PublisherEndpoint1\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\SecurityServiceAdapter\bin\Debug\SecurityServiceAdapter.dll.config
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\SecurityServiceAdapter\bin\Debug\SecurityServiceAdapter.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\SecurityServiceAdapter\bin\Debug\SecurityServiceAdapter.pdb
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\SecurityServiceAdapter\bin\Debug\NServiceBus.Core.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\SecurityServiceAdapter\bin\Debug\NServiceBus.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\SecurityServiceAdapter\bin\Debug\log4net.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\SecurityServiceAdapter\bin\Debug\NServiceBus.pdb
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\SecurityServiceAdapter\bin\Debug\NServiceBus.xml
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\SecurityServiceAdapter\bin\Debug\NServiceBus.Core.pdb
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\SecurityServiceAdapter\bin\Debug\NServiceBus.Core.xml
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\SecurityServiceAdapter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\SecurityServiceAdapter\obj\Debug\SecurityServiceAdapter.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\SecurityServiceAdapter\obj\Debug\SecurityServiceAdapter.pdb

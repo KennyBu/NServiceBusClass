@@ -1,0 +1,8 @@
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\Messages2\bin\Debug\Messages2.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\Messages2\bin\Debug\Messages2.pdb
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\Messages2\bin\Debug\NServiceBus.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\Messages2\bin\Debug\NServiceBus.pdb
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\Messages2\bin\Debug\NServiceBus.xml
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\Messages2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\Messages2\obj\Debug\Messages2.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\Messages2\obj\Debug\Messages2.pdb

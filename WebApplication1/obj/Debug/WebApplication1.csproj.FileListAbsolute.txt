@@ -1,0 +1,16 @@
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\WebApplication1\bin\WebApplication1.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\WebApplication1\bin\WebApplication1.pdb
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\WebApplication1\bin\log4net.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\WebApplication1\bin\Messages.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\WebApplication1\bin\NServiceBus.Core.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\WebApplication1\bin\NServiceBus.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\WebApplication1\bin\SecurityServiceAdapter.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\WebApplication1\bin\SecurityServiceAdapter.pdb
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\WebApplication1\bin\Messages.pdb
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\WebApplication1\bin\NServiceBus.pdb
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\WebApplication1\bin\NServiceBus.xml
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\WebApplication1\bin\NServiceBus.Core.pdb
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\WebApplication1\bin\NServiceBus.Core.xml
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\WebApplication1\obj\Debug\WebApplication1.pdb

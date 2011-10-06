@@ -1,0 +1,55 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5F713DBE-A8B5-4114-8AD7-6DAF254E1E21/f:Handler.cs" caret="274" fromTop="12" />
+      <File id="A687E3CC-21D6-444C-9587-3AB8F633C3BB/f:DecepticonsAlertMessage.cs" caret="63" fromTop="4" />
+      <File id="7FD26CFA-2775-4047-886A-4B88E52F1C94/f:AutobotMessage.cs" caret="0" fromTop="0" />
+      <File id="5F713DBE-A8B5-4114-8AD7-6DAF254E1E21/f:EndpointConfig.cs" caret="260" fromTop="11" />
+      <File id="5F713DBE-A8B5-4114-8AD7-6DAF254E1E21/f:App.config" caret="698" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A687E3CC-21D6-444C-9587-3AB8F633C3BB/f:DecepticonsAlertMessage.cs" caret="152" fromTop="6" />
+      <File id="5F713DBE-A8B5-4114-8AD7-6DAF254E1E21/f:Handler.cs" caret="150" fromTop="6" />
+      <File id="5F713DBE-A8B5-4114-8AD7-6DAF254E1E21/f:Handler.cs" caret="89" fromTop="4" />
+      <File id="5F713DBE-A8B5-4114-8AD7-6DAF254E1E21/f:EndpointConfig.cs" caret="84" fromTop="3" />
+      <File id="5F713DBE-A8B5-4114-8AD7-6DAF254E1E21/f:EndpointConfig.cs" caret="241" fromTop="7" />
+      <File id="5F713DBE-A8B5-4114-8AD7-6DAF254E1E21/f:EndpointConfig.cs" caret="533" fromTop="14" />
+      <File id="5F713DBE-A8B5-4114-8AD7-6DAF254E1E21/f:Handler.cs" caret="293" fromTop="13" />
+      <File id="5F713DBE-A8B5-4114-8AD7-6DAF254E1E21/f:App.config" caret="580" fromTop="16" />
+      <File id="5F713DBE-A8B5-4114-8AD7-6DAF254E1E21/f:App.config" caret="381" fromTop="8" />
+      <File id="5F713DBE-A8B5-4114-8AD7-6DAF254E1E21/f:EndpointConfig.cs" caret="548" fromTop="18" />
+      <File id="5F713DBE-A8B5-4114-8AD7-6DAF254E1E21/f:EndpointConfig.cs" caret="602" fromTop="23" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="Bus" priority="1" />
+      <Item value="Information" priority="1" />
+      <Item value="IWantToRunAtStartup`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NServiceBus.IBus">
+      <Item value="Send`1" priority="0" />
+      <Item value="Publish`1" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

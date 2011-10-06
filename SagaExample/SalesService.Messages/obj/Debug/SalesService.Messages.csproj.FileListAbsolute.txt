@@ -1,0 +1,8 @@
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\SagaExample\SalesService.Messages\bin\Debug\SalesService.Messages.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\SagaExample\SalesService.Messages\bin\Debug\SalesService.Messages.pdb
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\SagaExample\SalesService.Messages\bin\Debug\NServiceBus.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\SagaExample\SalesService.Messages\bin\Debug\NServiceBus.pdb
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\SagaExample\SalesService.Messages\bin\Debug\NServiceBus.xml
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\SagaExample\SalesService.Messages\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\SagaExample\SalesService.Messages\obj\Debug\SalesService.Messages.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\SagaExample\SalesService.Messages\obj\Debug\SalesService.Messages.pdb

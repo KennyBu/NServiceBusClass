@@ -1,0 +1,5 @@
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\SecurityService\bin\SecurityService.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\SecurityService\bin\SecurityService.pdb
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\SecurityService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\SecurityService\obj\Debug\SecurityService.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\SecurityService\obj\Debug\SecurityService.pdb

@@ -1,0 +1,111 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="16E53265-5B94-418B-AB49-A31F064A7BAE/f:OrderAccepted.cs" caret="68" fromTop="3" />
+      <File id="5219D56F-FBB6-43CB-9A81-418BC9E8CBD9/f:EndpointConfig.cs" caret="65" fromTop="3" />
+      <File id="5219D56F-FBB6-43CB-9A81-418BC9E8CBD9/f:App.config" caret="559" fromTop="17" />
+      <File id="5E7DF12B-994C-4724-86F1-7DCAB5609019/f:OrderBilled.cs" caret="0" fromTop="0" />
+      <File id="5BD0C8B7-B164-44DE-A61B-4C177A0CBF96/f:EndpointConfig.cs" caret="0" fromTop="0" />
+      <File id="5BD0C8B7-B164-44DE-A61B-4C177A0CBF96/f:Handler.cs" caret="122" fromTop="5" />
+      <File id="5BD0C8B7-B164-44DE-A61B-4C177A0CBF96/f:App.config" caret="307" fromTop="5" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:EndpointConfig.cs" caret="138" fromTop="8" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:App.config" caret="307" fromTop="5" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:Startup.cs" caret="38" fromTop="1" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:ShippingSagaData.cs" caret="38" fromTop="1" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:ShippingSaga.cs" caret="1031" fromTop="24" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="5E7DF12B-994C-4724-86F1-7DCAB5609019/f:OrderBilled.cs" caret="198" fromTop="8" />
+      <File id="16E53265-5B94-418B-AB49-A31F064A7BAE/f:OrderAccepted.cs" caret="174" fromTop="9" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:ShippingSagaData.cs" caret="409" fromTop="11" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:ShippingSagaData.cs" caret="450" fromTop="13" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:ShippingSaga.cs" caret="163" fromTop="7" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:ShippingSaga.cs" caret="291" fromTop="12" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:ShippingSaga.cs" caret="535" fromTop="15" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:ShippingSaga.cs" caret="944" fromTop="25" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:ShippingSaga.cs" caret="819" fromTop="23" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:ShippingSaga.cs" caret="1355" fromTop="37" />
+      <File id="5BD0C8B7-B164-44DE-A61B-4C177A0CBF96/f:Handler.cs" caret="178" fromTop="6" />
+      <File id="5BD0C8B7-B164-44DE-A61B-4C177A0CBF96/f:Handler.cs" caret="227" fromTop="7" />
+      <File id="5219D56F-FBB6-43CB-9A81-418BC9E8CBD9/f:EndpointConfig.cs" caret="91" fromTop="2" />
+      <File id="5219D56F-FBB6-43CB-9A81-418BC9E8CBD9/f:EndpointConfig.cs" caret="269" fromTop="12" />
+      <File id="5219D56F-FBB6-43CB-9A81-418BC9E8CBD9/f:EndpointConfig.cs" caret="624" fromTop="21" />
+      <File id="5BD0C8B7-B164-44DE-A61B-4C177A0CBF96/f:Handler.cs" caret="488" fromTop="14" />
+      <File id="5BD0C8B7-B164-44DE-A61B-4C177A0CBF96/f:App.config" caret="434" fromTop="9" />
+      <File id="5219D56F-FBB6-43CB-9A81-418BC9E8CBD9/f:App.config" caret="430" fromTop="9" />
+      <File id="5219D56F-FBB6-43CB-9A81-418BC9E8CBD9/f:EndpointConfig.cs" caret="351" fromTop="5" />
+      <File id="5219D56F-FBB6-43CB-9A81-418BC9E8CBD9/f:EndpointConfig.cs" caret="613" fromTop="11" />
+      <File id="5219D56F-FBB6-43CB-9A81-418BC9E8CBD9/f:App.config" caret="518" fromTop="15" />
+      <File id="5BD0C8B7-B164-44DE-A61B-4C177A0CBF96/f:App.config" caret="630" fromTop="16" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:App.config" caret="494" fromTop="14" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:App.config" caret="669" fromTop="17" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:EndpointConfig.cs" caret="0" fromTop="1" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:Startup.cs" caret="337" fromTop="14" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:Startup.cs" caret="461" fromTop="20" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:EndpointConfig.cs" caret="119" fromTop="4" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:ShippingSaga.cs" caret="665" fromTop="17" />
+      <File id="7128120C-BADC-4E14-A7BE-928C744E8897/f:ShippingSaga.cs" caret="1077" fromTop="31" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="4" />
+      <Item value="virtual" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="ShippingSagaData`0" priority="1" />
+      <Item value="if" priority="2" />
+      <Item value="message" priority="4" />
+      <Item value="Data" priority="5" />
+      <Item value="true" priority="1" />
+      <Item value="Console`0" priority="3" />
+      <Item value="MarkAsComplete`0" priority="0" />
+      <Item value="Bus" priority="2" />
+      <Item value="OrderId" priority="1" />
+      <Item value="IWantToRunAtStartup`0" priority="0" />
+      <Item value="OrderAccepted" priority="0" />
+      <Item value="Guid`0" priority="1" />
+      <Item value="while" priority="0" />
+      <Item value="var" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ClientEndpoint.ShippingSagaData">
+      <Item value="OrderId" priority="2" />
+      <Item value="IsOrderAccepted" priority="1" />
+      <Item value="IsOrderBilled" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SalesService.Messages.OrderAccepted">
+      <Item value="OrderId" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Billing.Messages.OrderBilled">
+      <Item value="OrderId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="2" />
+      <Item value="ReadLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NServiceBus.IBus">
+      <Item value="Publish`1" priority="1" />
+      <Item value="Subscribe`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid`0" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -53,10 +53,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="MessageSender.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Messages\Messages.csproj">
+      <Project>{8CE6D858-E01A-49D4-81F0-EE1AAF9AF40D}</Project>
+      <Name>Messages</Name>
+    </ProjectReference>
+    <ProjectReference Include="SecurityServiceAdapter\SecurityServiceAdapter.csproj">
+      <Project>{DB892494-0AEA-4382-B29F-032C06EF43D8}</Project>
+      <Name>SecurityServiceAdapter</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

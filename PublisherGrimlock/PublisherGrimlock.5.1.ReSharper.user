@@ -1,0 +1,65 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7FD26CFA-2775-4047-886A-4B88E52F1C94/f:AutobotMessage.cs" caret="44" fromTop="3" />
+      <File id="7FD26CFA-2775-4047-886A-4B88E52F1C94/f:IMyMessage.cs" caret="95" fromTop="5" />
+      <File id="67C3FC70-75D8-44BF-A75E-B118BC0D9DA2/f:Handler.cs" caret="72" fromTop="4" />
+      <File id="67C3FC70-75D8-44BF-A75E-B118BC0D9DA2/f:EndpointConfig.cs" caret="315" fromTop="13" />
+      <File id="67C3FC70-75D8-44BF-A75E-B118BC0D9DA2/f:App.config" caret="76" fromTop="2" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="67C3FC70-75D8-44BF-A75E-B118BC0D9DA2/f:EndpointConfig.cs" caret="0" fromTop="2" />
+      <File id="7FD26CFA-2775-4047-886A-4B88E52F1C94/f:AutobotMessage.cs" caret="142" fromTop="6" />
+      <File id="67C3FC70-75D8-44BF-A75E-B118BC0D9DA2/f:Handler.cs" caret="172" fromTop="6" />
+      <File id="67C3FC70-75D8-44BF-A75E-B118BC0D9DA2/f:EndpointConfig.cs" caret="241" fromTop="7" />
+      <File id="67C3FC70-75D8-44BF-A75E-B118BC0D9DA2/f:Handler.cs" caret="169" fromTop="7" />
+      <File id="67C3FC70-75D8-44BF-A75E-B118BC0D9DA2/f:Handler.cs" caret="219" fromTop="9" />
+      <File id="67C3FC70-75D8-44BF-A75E-B118BC0D9DA2/f:Handler.cs" caret="0" fromTop="0" />
+      <File id="67C3FC70-75D8-44BF-A75E-B118BC0D9DA2/f:Handler.cs" caret="462" fromTop="15" />
+      <File id="67C3FC70-75D8-44BF-A75E-B118BC0D9DA2/f:App.config" caret="493" fromTop="19" />
+      <File id="67C3FC70-75D8-44BF-A75E-B118BC0D9DA2/f:App.config" caret="309" fromTop="13" />
+      <File id="67C3FC70-75D8-44BF-A75E-B118BC0D9DA2/f:App.config" caret="622" fromTop="16" />
+      <File id="67C3FC70-75D8-44BF-A75E-B118BC0D9DA2/f:App.config" caret="380" fromTop="8" />
+      <File id="67C3FC70-75D8-44BF-A75E-B118BC0D9DA2/f:EndpointConfig.cs" caret="536" fromTop="17" />
+      <File id="67C3FC70-75D8-44BF-A75E-B118BC0D9DA2/f:EndpointConfig.cs" caret="369" fromTop="16" />
+      <File id="67C3FC70-75D8-44BF-A75E-B118BC0D9DA2/f:EndpointConfig.cs" caret="590" fromTop="24" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="AutobotMessage`0" priority="0" />
+      <Item value="Bus" priority="0" />
+      <Item value="IWantToRunAtStartup`0" priority="0" />
+      <Item value="Information" priority="1" />
+      <Item value="while" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="Console`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NServiceBus.IBus">
+      <Item value="Publish`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="ReadLine`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

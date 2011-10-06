@@ -1,0 +1,196 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8CE6D858-E01A-49D4-81F0-EE1AAF9AF40D/f:Request.cs" caret="98" fromTop="5" />
+      <File id="DB892494-0AEA-4382-B29F-032C06EF43D8/f:app.config" caret="1152" fromTop="17" />
+      <File id="006A8FA9-BE26-4C36-BD90-D4CF2BBF4AEA/f:SecurityService.svc" caret="0" fromTop="0" />
+      <File id="006A8FA9-BE26-4C36-BD90-D4CF2BBF4AEA/f:SecurityService.svc.cs" caret="130" fromTop="5" />
+      <File id="E578909C-DA26-4162-A05E-5097B3E152C5/f:Default.aspx.cs" caret="434" fromTop="19" />
+      <File id="E578909C-DA26-4162-A05E-5097B3E152C5/f:Global.asax.cs" caret="938" fromTop="30" />
+      <File id="DB892494-0AEA-4382-B29F-032C06EF43D8/f:ConfigSource.cs" caret="0" fromTop="0" />
+      <File id="E578909C-DA26-4162-A05E-5097B3E152C5/f:Web.config" caret="395" fromTop="8" />
+      <File id="8CE6D858-E01A-49D4-81F0-EE1AAF9AF40D/f:QueryResult.cs" caret="0" fromTop="0" />
+      <File id="8CE6D858-E01A-49D4-81F0-EE1AAF9AF40D/f:Query.cs" caret="0" fromTop="0" />
+      <File id="8CE6D858-E01A-49D4-81F0-EE1AAF9AF40D/f:RequestWithResponse.cs" caret="0" fromTop="0" />
+      <File id="018A4148-5F1B-47DE-AD3C-C4EF53D7194D/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="006A8FA9-BE26-4C36-BD90-D4CF2BBF4AEA/f:IService1.cs" caret="0" fromTop="0" />
+      <File id="E578909C-DA26-4162-A05E-5097B3E152C5/f:QueryResultMessageHandler.cs" caret="272" fromTop="11" />
+      <File id="010BDBB5-AA7F-437E-A714-540F85E9EB85/f:App.config" caret="364" fromTop="10" />
+      <File id="0BBB36B4-C682-429D-9E7A-0D9C0527BF69/f:App.config" caret="345" fromTop="10" />
+      <File id="94DDE897-7DE1-44D8-A619-0453A21D2B8C/f:App.config" caret="316" fromTop="5" />
+      <File id="94DDE897-7DE1-44D8-A619-0453A21D2B8C/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="94DDE897-7DE1-44D8-A619-0453A21D2B8C/f:QueryMessageHandler.cs" caret="0" fromTop="0" />
+      <File id="010BDBB5-AA7F-437E-A714-540F85E9EB85/f:SaySomething.cs" caret="0" fromTop="0" />
+      <File id="010BDBB5-AA7F-437E-A714-540F85E9EB85/f:RequestWithResponseHandler.cs" caret="0" fromTop="0" />
+      <File id="010BDBB5-AA7F-437E-A714-540F85E9EB85/f:RequestHandler.cs" caret="0" fromTop="0" />
+      <File id="010BDBB5-AA7F-437E-A714-540F85E9EB85/f:ISaySomething.cs" caret="0" fromTop="0" />
+      <File id="010BDBB5-AA7F-437E-A714-540F85E9EB85/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="010BDBB5-AA7F-437E-A714-540F85E9EB85/f:Auth.cs" caret="0" fromTop="0" />
+      <File id="0BBB36B4-C682-429D-9E7A-0D9C0527BF69/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="0BBB36B4-C682-429D-9E7A-0D9C0527BF69/f:MessageSender.cs" caret="193" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="E578909C-DA26-4162-A05E-5097B3E152C5/f:Web.config" caret="2148" fromTop="13" />
+      <File id="E578909C-DA26-4162-A05E-5097B3E152C5/f:Web.config" caret="2148" fromTop="40" />
+      <File id="E578909C-DA26-4162-A05E-5097B3E152C5/f:Web.config" caret="1908" fromTop="33" />
+      <File id="E578909C-DA26-4162-A05E-5097B3E152C5/f:Global.asax.cs" caret="1865" fromTop="27" />
+      <File id="E578909C-DA26-4162-A05E-5097B3E152C5/f:Global.asax.cs" caret="2014" fromTop="31" />
+      <File id="8CE6D858-E01A-49D4-81F0-EE1AAF9AF40D/f:RequestWithResponse.cs" caret="97" fromTop="5" />
+      <File id="E578909C-DA26-4162-A05E-5097B3E152C5/f:Default.aspx.cs" caret="542" fromTop="19" />
+      <File id="010BDBB5-AA7F-437E-A714-540F85E9EB85/f:RequestWithResponseHandler.cs" caret="352" fromTop="13" />
+      <File id="018A4148-5F1B-47DE-AD3C-C4EF53D7194D/f:Class1.cs" caret="459" fromTop="20" />
+      <File id="018A4148-5F1B-47DE-AD3C-C4EF53D7194D/f:Class1.cs" caret="163" fromTop="7" />
+      <File id="8CE6D858-E01A-49D4-81F0-EE1AAF9AF40D/f:Query.cs" caret="97" fromTop="4" />
+      <File id="8CE6D858-E01A-49D4-81F0-EE1AAF9AF40D/f:QueryResult.cs" caret="117" fromTop="6" />
+      <File id="E578909C-DA26-4162-A05E-5097B3E152C5/f:Global.asax.cs" caret="769" fromTop="20" />
+      <File id="E578909C-DA26-4162-A05E-5097B3E152C5/f:QueryResultMessageHandler.cs" caret="254" fromTop="10" />
+      <File id="E578909C-DA26-4162-A05E-5097B3E152C5/f:QueryResultMessageHandler.cs" caret="99" fromTop="4" />
+      <File id="E578909C-DA26-4162-A05E-5097B3E152C5/f:Global.asax.cs" caret="974" fromTop="27" />
+      <File id="E578909C-DA26-4162-A05E-5097B3E152C5/f:QueryResultMessageHandler.cs" caret="0" fromTop="0" />
+      <File id="E578909C-DA26-4162-A05E-5097B3E152C5/f:Web.config" caret="496" fromTop="11" />
+      <File id="94DDE897-7DE1-44D8-A619-0453A21D2B8C/f:Class1.cs" caret="547" fromTop="2" />
+      <File id="94DDE897-7DE1-44D8-A619-0453A21D2B8C/f:Class1.cs" caret="548" fromTop="19" />
+      <File id="94DDE897-7DE1-44D8-A619-0453A21D2B8C/f:Class1.cs" caret="547" fromTop="7" />
+      <File id="94DDE897-7DE1-44D8-A619-0453A21D2B8C/f:QueryMessageHandler.cs" caret="182" fromTop="7" />
+      <File id="94DDE897-7DE1-44D8-A619-0453A21D2B8C/f:App.config" caret="183" fromTop="3" />
+      <File id="94DDE897-7DE1-44D8-A619-0453A21D2B8C/f:Class1.cs" caret="527" fromTop="18" />
+      <File id="94DDE897-7DE1-44D8-A619-0453A21D2B8C/f:Class1.cs" caret="527" fromTop="12" />
+      <File id="94DDE897-7DE1-44D8-A619-0453A21D2B8C/f:Class1.cs" caret="526" fromTop="12" />
+      <File id="94DDE897-7DE1-44D8-A619-0453A21D2B8C/f:Class1.cs" caret="526" fromTop="12" />
+      <File id="94DDE897-7DE1-44D8-A619-0453A21D2B8C/f:Class1.cs" caret="233" fromTop="2" />
+      <File id="94DDE897-7DE1-44D8-A619-0453A21D2B8C/f:Class1.cs" caret="334" fromTop="6" />
+      <File id="006A8FA9-BE26-4C36-BD90-D4CF2BBF4AEA/f:IService1.cs" caret="0" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="IWantToRunAtStartup`0" priority="0" />
+      <Item value="public" priority="5" />
+      <Item value="string" priority="3" />
+      <Item value="IBus`0" priority="2" />
+      <Item value="var" priority="1" />
+      <Item value="new" priority="3" />
+      <Item value="SaySomething" priority="0" />
+      <Item value="Bus" priority="4" />
+      <Item value="message" priority="4" />
+      <Item value="AsA_Client`0" priority="0" />
+      <Item value="IWantCustomInitialization`0" priority="0" />
+      <Item value="NServiceBus" priority="0" />
+      <Item value="Configure`0" priority="1" />
+      <Item value="throw" priority="0" />
+      <Item value="Exception" priority="0" />
+      <Item value="ISpecifyMessageHandlerOrdering`0" priority="0" />
+      <Item value="order" priority="0" />
+      <Item value="First" priority="0" />
+      <Item value="ISaySomething`0" priority="1" />
+      <Item value="return" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="saysSomething" priority="0" />
+      <Item value="SaySomething`0" priority="0" />
+      <Item value="Request`0" priority="0" />
+      <Item value="TextBox1" priority="0" />
+      <Item value="int" priority="1" />
+      <Item value="Label1" priority="0" />
+      <Item value="i" priority="1" />
+      <Item value="RequestWithResponseHandler`0" priority="0" />
+      <Item value="ThreadStaticAttribute`0" priority="0" />
+      <Item value="TimeSpan" priority="0" />
+      <Item value="Queryable`0" priority="0" />
+      <Item value="antlr" priority="0" />
+      <Item value="Action&lt;Query&gt;" priority="0" />
+      <Item value="q" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="QueryResult`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@log4net.LogManager">
+      <Item value="GetLogger`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:log4net.ILog">
+      <Item value="Info`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NServiceBus.IBus">
+      <Item value="Send`1" priority="1" />
+      <Item value="OutgoingHeaders" priority="0" />
+      <Item value="Return`0" priority="0" />
+      <Item value="Reply`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NServiceBus.Configure">
+      <Item value="With`0" priority="0" />
+      <Item value="Instance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NServiceBus.Configure">
+      <Item value="DefaultBuilder`0" priority="0" />
+      <Item value="XmlSerializer`0" priority="0" />
+      <Item value="Configurer" priority="0" />
+      <Item value="RijndaelEncryptionService`0" priority="1" />
+      <Item value="CustomConfigurationSource`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NServiceBus.Order">
+      <Item value="Specify`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HelloWorldServer.ISaySomething">
+      <Item value="InResponseTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Messages.Request">
+      <Item value="SaySomething" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NServiceBus.ObjectBuilder.IConfigureComponents">
+      <Item value="ConfigureComponent`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NServiceBus.ObjectBuilder.ComponentCallModelEnum">
+      <Item value="Singleton" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NServiceBus.WireEncryptedString">
+      <Item value="Value" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NServiceBus.ICallback">
+      <Item value="RegisterWebCallback`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Label">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Messages.RequestWithResponse">
+      <Item value="SaySomething" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Messages.Query">
+      <Item value="NumberOfResponses" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NServiceBus.Unicast.Config.ConfigUnicastBus">
+      <Item value="LoadMessageHandlers`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Messages.QueryResult">
+      <Item value="Something" priority="1" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

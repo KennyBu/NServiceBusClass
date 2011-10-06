@@ -1,3 +1,11 @@
 <Modules>
   <Module PersistentId="0BBB36B4-C682-429D-9E7A-0D9C0527BF69" ModuleId="HelloWorld" />
+  <Module PersistentId="8CE6D858-E01A-49D4-81F0-EE1AAF9AF40D" ModuleId="Messages" />
+  <Module PersistentId="010BDBB5-AA7F-437E-A714-540F85E9EB85" ModuleId="HelloWorldServer" />
+  <Module PersistentId="006A8FA9-BE26-4C36-BD90-D4CF2BBF4AEA" ModuleId="SecurityService" />
+  <Module PersistentId="DB892494-0AEA-4382-B29F-032C06EF43D8" ModuleId="SecurityServiceAdapter" />
+  <Module PersistentId="E578909C-DA26-4162-A05E-5097B3E152C5" ModuleId="WebApplication1" />
+  <Module PersistentId="018A4148-5F1B-47DE-AD3C-C4EF53D7194D" ModuleId="HelloWorldServer.Tests_1" />
+  <Module PersistentId="94DDE897-7DE1-44D8-A619-0453A21D2B8C" ModuleId="HelloWorldQueryServer" />
+  <Module PersistentId="0A736422-9C84-4F9A-988F-1BC303AA1142" ModuleId="PublisherEndpoint1" />
 </Modules>

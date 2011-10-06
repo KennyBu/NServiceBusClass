@@ -1,9 +1,14 @@
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\bin\Debug\HelloWorld.dll.config
 C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\bin\Debug\HelloWorld.dll
 C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\bin\Debug\HelloWorld.pdb
 C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\bin\Debug\log4net.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\bin\Debug\Messages.dll
 C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\bin\Debug\NServiceBus.Core.dll
 C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\bin\Debug\NServiceBus.dll
 C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\bin\Debug\NServiceBus.Host.exe
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\bin\Debug\SecurityServiceAdapter.dll
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\bin\Debug\Messages.pdb
+C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\bin\Debug\SecurityServiceAdapter.pdb
 C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\bin\Debug\NServiceBus.pdb
 C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\bin\Debug\NServiceBus.xml
 C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\bin\Debug\NServiceBus.Core.pdb
@@ -13,4 +18,3 @@ C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\bin\Debug\NServiceBus
 C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\obj\Debug\HelloWorld.dll
 C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\obj\Debug\HelloWorld.pdb
-C:\Users\KBurkhardt\repos\home\NServiceBusClass\HelloWorld\bin\Debug\HelloWorld.dll.config
